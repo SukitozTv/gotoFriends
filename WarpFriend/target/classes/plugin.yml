@@ -1,0 +1,12 @@
+name: WarpFriend
+version: 1.0
+main: me.flukky.Main
+api-version: 1.21
+commands:
+  warpfriend:
+    description: Warp to a friend and deduct exp or diamonds from both.
+    usage: /warpfriend <friend_name>
+    aliases: [wf]
+  wa:
+    description: Accept a teleport request from a friend.
+    usage: /wa
